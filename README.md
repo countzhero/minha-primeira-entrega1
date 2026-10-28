@@ -42,3 +42,4 @@ Neste curso você faz, de verdade, o caminho de toda entrega das disciplinas: um
 
 - **Nome:** J R
 - **Curso:** ADS
+- **Meu site:** https://countzhero.github.io/minha-primeira-entrega1/
